@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mrbugs16/mi-clothing-brand/static/css/main.7c98f71c.css",
-    "main.js": "/mrbugs16/mi-clothing-brand/static/js/main.b90167ac.js",
-    "index.html": "/mrbugs16/mi-clothing-brand/index.html",
-    "main.7c98f71c.css.map": "/mrbugs16/mi-clothing-brand/static/css/main.7c98f71c.css.map",
-    "main.b90167ac.js.map": "/mrbugs16/mi-clothing-brand/static/js/main.b90167ac.js.map"
+    "main.css": "/mi-clothing-brand/static/css/main.7c98f71c.css",
+    "main.js": "/mi-clothing-brand/static/js/main.16471875.js",
+    "index.html": "/mi-clothing-brand/index.html",
+    "main.7c98f71c.css.map": "/mi-clothing-brand/static/css/main.7c98f71c.css.map",
+    "main.16471875.js.map": "/mi-clothing-brand/static/js/main.16471875.js.map"
   },
   "entrypoints": [
     "static/css/main.7c98f71c.css",
-    "static/js/main.b90167ac.js"
+    "static/js/main.16471875.js"
   ]
 }
