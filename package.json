@@ -1,0 +1,32 @@
+{
+  "name": "urban-style-clothing",
+  "version": "1.0.0",
+  "dependencies": {
+    "lucide-react": "^0.263.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "homepage": "https://github.com/mrbugs16/mi-clothing-brand",
+  "scripts": {
+    "predeploy": "npm run build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "deploy": "npm run build && gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
